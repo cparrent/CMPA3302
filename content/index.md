@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+Law Enforcement and Technology: Welcome to my website exploring the relationship between law enforcement and modern technology. This site will examine how technology influences policing, communication, information management, and public safety.
 ---
 ## The index page
 

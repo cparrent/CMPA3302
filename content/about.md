@@ -1,0 +1,2 @@
+# About Me 
+My name is Clayton Parrent, and I am a student at Texas Tech University. My professional background and interests include law enforcement, technology, and computing. Through my coursework, I am continuing to develop my technical skills while exploring ways technology can be applied in professional environments. Outside of school and work, I enjoy spending time with my family, working out, working on cars, and playing video games.
