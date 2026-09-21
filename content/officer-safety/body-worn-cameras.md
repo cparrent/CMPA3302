@@ -12,9 +12,12 @@ Body-worn camera footage should not be treated as a perfect representation of ev
 
 Camera footage can also assist with reviewing incidents involving [[less-lethal-technology|less-lethal technology]]. This makes body-worn cameras valuable not only as recording devices but also as resources for training, documentation and evaluating police encounters.
 
-## Axon Body 4
+## Axon Body 4 
 
-![Front view of an Axon Body 4 body-worn camera](../images/axon-body-4.png)
+The Axon Body 4 is an example of modern body-worn camera technology designed for law enforcement use. The camera provides officers with a way to document encounters, preserve evidence and provide additional context when incidents are reviewed. 
+![Axon Body 4 body-worn camera used by law enforcement officers](../assets/axon-body-4.png)
 
+## Axon Body 4 User Guide
 
-*Axon Body 4 body-worn camera. Image courtesy of Axon.*
+Additional technical information about the Axon Body 4, including its operation and features, is available in the official Axon Body 4 Camera User Guide embedded below. 
+![[../assets/axon-body-4-user-guide.pdf]]
