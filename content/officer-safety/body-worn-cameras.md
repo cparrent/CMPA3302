@@ -1,3 +1,8 @@
+---
+title: Body-Worn Cameras
+date: 2026-10-02
+---
+
 # Body-Worn Cameras and Officer Safety
 
 Body-worn cameras have become an important piece of technology in modern law enforcement. Although they are commonly associated with accountability and evidence collection, they can also contribute to officer safety. A body-worn camera creates a visual and audio record of an encounter from the officer's general perspective. This information can later help investigators, supervisors and officers understand what occurred during an incident. 
@@ -21,3 +26,10 @@ The Axon Body 4 is an example of modern body-worn camera technology designed for
 
 Additional technical information about the Axon Body 4, including its operation and features, is available in the official Axon Body 4 Camera User Guide embedded below. 
 ![[../assets/axon-body-4-user-guide.pdf]]
+
+
+## Sources
+
+- [National Institute of Justice – Primer on Body-Worn Cameras for Law Enforcement](https://nij.ojp.gov/library/publications/primer-body-worn-cameras-law-enforcement)
+- [National Institute of Justice – Research on Body-Worn Cameras and Law Enforcement](https://nij.ojp.gov/topics/articles/research-body-worn-cameras-and-law-enforcement)
+- [[../assets/axon-body-4-user-guide.pdf|Axon Body 4 User Guide]]

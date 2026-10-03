@@ -1,3 +1,8 @@
+---
+title: Location Tracking
+date: 2026-10-02
+---
+
 # Location Tracking and Officer Safety
 
 Knowing where officers are located can be extremely important during law enforcement operations. Location-tracking technology can provide dispatchers and other officers with additional information about the location of patrol units. This information becomes particularly valuable when an officer needs assistance or when multiple units are responding to the same incident.

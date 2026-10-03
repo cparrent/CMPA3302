@@ -1,3 +1,8 @@
+---
+title: Communication Technology
+date: 2026-10-02
+---
+
 # Communication Technology
 
 Communication is one of the most important components of officer safety. Police officers frequently operate away from supervisors and other officers, making reliable communication with dispatchers and responding units essential. Modern law enforcement agencies use several technologies to exchange information and coordinate responses.

@@ -1,5 +1,6 @@
 ---
 title: Officer Safety
+date: 2026-10-02
 ---
 
 # Officer Safety 
@@ -16,4 +17,4 @@ Technology has become an important part of modern officer safety. This section e
 
 ## Related Categories
 
-Effective [[patrol-operations/index|Patrol Operations]] rely on officer safety practices and technology to help officers respond to incidents while reducing unnecessary risks.
+Effective [[../patrol-operations/index|Patrol Operations]] rely on officer safety practices and technology to help officers respond to incidents while reducing unnecessary risks.

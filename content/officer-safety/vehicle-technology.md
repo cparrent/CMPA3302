@@ -1,4 +1,7 @@
-# Patrol Vehicle Technology
+---
+title: Patrol Vehicle Technology
+date: 2026-10-02
+---
 
 # Patrol Vehicle Technology 
 

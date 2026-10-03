@@ -1,3 +1,8 @@
+---
+title: Less-Lethal Technology
+date: 2026-10-02
+---
+
 # Less-Lethal Technology
 
 Law enforcement agencies may provide officers with less-lethal tools intended to offer additional options when responding to certain situations. These tools exist within a larger use-of-force framework and do not eliminate the need for training, communication, judgment or adherence to agency policy and applicable law.
